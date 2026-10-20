@@ -8,6 +8,10 @@ The application allows users to search for a city and view its current weather i
 
 The project focuses on API integration, modular application design, GUI development, error handling, and visual presentation.
 
+## Application Preview
+
+![Weather App Interface](assets/weather-app.png)
+
 ## Features
 
 - **City Search and Geocoding:** Converts user-entered city names into geographic coordinates before retrieving weather data.
